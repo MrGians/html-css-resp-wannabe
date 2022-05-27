@@ -30,3 +30,7 @@
   .why-us {background-color: #222222;}
 }
 
+/* Fix Responsive View over 769px | Bonus */
+@media screen and (min-width: 769px) {
+  .container {width: 80%;}
+}

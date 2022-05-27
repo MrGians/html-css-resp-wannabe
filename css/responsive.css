@@ -1,0 +1,11 @@
+/* Responsive Tablet View */
+@media screen and (max-width: 768px) {
+
+  /* Main Title Centering */
+  .site-header {text-align: center;}
+
+  /* Resizing All Sections */
+  .container {
+    width: 100%;
+  }
+}
